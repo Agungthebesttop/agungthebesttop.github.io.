@@ -11,18 +11,12 @@ html {
 
 .jumbotron {
   /* height: 400px; */
-<<<<<<< HEAD
   background-image: url('../img/gambar.jpg');
   background-attachment: fixed;
   background-size: cover;
   /* background-position: 0 50px; */
   background-position: center;
-=======
-  background-image: url('../img/gmbar.jpg');
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: 0 10px;
->>>>>>> 703f784e79ccd3b7e5d93d2c5352bebdc59ea3a3
+  /* background-position: 0 10px; */
   color: #eaeaea;
   overflow: hidden;
   background-repeat: no-repeat;
